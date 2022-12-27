@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Mealtime Experimental Features with React and Other React related packages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
