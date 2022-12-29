@@ -15,7 +15,7 @@ html, body, #root {
 body {
   font-family: Raleway, sans-serif;
   margin: 0;
-  font-size: 1.4em;
+  font-size: 1.25rem;
   background: #dfdfdf;
   color: #333;
 }
