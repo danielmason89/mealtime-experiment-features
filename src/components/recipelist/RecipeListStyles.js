@@ -59,4 +59,14 @@ export const StyledRecipeList = styled.li`
       transform: translateY(0);
     }
   }
+
+  .card.dark {
+    background: #555;
+  }
+
+  .card.dark p,
+  .card.dark h3,
+  .card.dark div {
+    color: #e4e4e4;
+  }
 `;

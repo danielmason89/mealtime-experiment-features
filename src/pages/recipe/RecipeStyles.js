@@ -33,4 +33,9 @@ export const RecipeStyle = styled.div`
     text-align: left;
     line-height: 1.5rem;
   }
+
+  .dark {
+    background: #555;
+    color: #e4e4e4;
+  }
 `;

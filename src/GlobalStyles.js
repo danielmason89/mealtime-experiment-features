@@ -9,6 +9,10 @@ const GlobalStyle = createGlobalStyle`
   min-height: 100%;
 }
 
+.App.dark {
+  background: #333;
+}
+
 html, body, #root {
   height: 100%;
 }
@@ -16,7 +20,7 @@ body {
   font-family: Raleway, sans-serif;
   margin: 0;
   font-size: 1.25rem;
-  background: #dfdfdf;
+  background: #6558584c;
   color: #333;
 }
 h1,h2,h3,p {
