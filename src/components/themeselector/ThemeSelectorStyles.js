@@ -4,7 +4,7 @@ export const ThemeStyles = styled.div`
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  max-width: 1200px;
+
   margin: 20px auto;
 
   .theme-buttons div {
