@@ -69,4 +69,14 @@ export const StyledRecipeList = styled.li`
   .card.dark div {
     color: #e4e4e4;
   }
+
+  .delete {
+    position: absolute;
+    height: 1.25rem;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    filter: invert(60%);
+    z-index: 1000;
+  }
 `;
